@@ -69,6 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+cd C:\Users\NEW\OneDrive\문서\취미\프로그래밍\blog\blog
 git add .
 git commit -m "2022/11/07_1"
 git push origin master
